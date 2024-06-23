@@ -8,7 +8,7 @@ Original file is located at
 
 ## Semi-structured RAG
 
-## [Youtube video covering this notebook](https://youtu.be/AYBMbIMG19M?si=EFv5C4BUNCWpVSNh)
+
 [Blog post](https://blog.langchain.dev/semi-structured-multi-modal-rag/)
 
 Many documents contain a mixture of content types, including text and tables.
